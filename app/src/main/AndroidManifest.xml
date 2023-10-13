@@ -38,6 +38,9 @@
             android:name=".ScanBarCodeActivity"
             android:exported="false" />
         <activity
+            android:name=".ImageCompareActivity"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
